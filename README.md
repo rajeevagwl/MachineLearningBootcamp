@@ -7,6 +7,7 @@
 - Using R Data Frames to solve complex tasks
 - Use R to handle Excel Files
 - Web scraping with R
+- Use dplyr and tidyr for data wrangling
 - Use ggplot2 for data visualizations
 - Use plotly for interactive visualizations
 - Machine Learning with R, including:
