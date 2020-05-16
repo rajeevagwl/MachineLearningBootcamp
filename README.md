@@ -1,7 +1,7 @@
 # MachineLearningBootcamp
 Introduction to Data Science
 
-What you’ll learn
+### What you’ll learn
 - Program in R
 - Use R for Data Analysis
 - Create Data Visualizations
