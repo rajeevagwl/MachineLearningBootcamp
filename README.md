@@ -1,13 +1,21 @@
 # Machine Learning Bootcamp 
 ### Introduction to Data Science
 
-### What you’ll learn
-- Program in R
-- Use R for Data Analysis
-- Create Data Visualizations
-- Use R to handle csv,excel files or web scraping
-- Use R to manipulate data easily
-- Use R for Machine Learning Algorithms
+### We'll teach you how to program with R, how to create amazing data visualizations, and how to use Machine Learning with R! Here a just a few of the topics we will be learning:
+- Programming with R
+- Advanced R Features
+- Using R Data Frames to solve complex tasks
+- Use R to handle Excel Files
+- Web scraping with R
+- Use ggplot2 for data visualizations
+- Use plotly for interactive visualizations
+- Machine Learning with R, including:
+- Linear Regression
+- K Nearest Neighbors
+- K Means Clustering
+- Decision Trees
+- Random Forests
+- and much more!
 
 ----------------------------------------------
 
