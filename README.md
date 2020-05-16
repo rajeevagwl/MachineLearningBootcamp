@@ -1,5 +1,4 @@
-# Machine Learning Bootcamp
-## Introduction to Data Science
+# Machine Learning Bootcamp ## Introduction to Data Science
 
 ### What you’ll learn
 - Program in R
