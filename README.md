@@ -1,7 +1,7 @@
 # Machine Learning Bootcamp 
 ### Introduction to Data Science
 
-### We'll teach you how to program with R, how to create amazing data visualizations, and how to use Machine Learning with R! Here a just a few of the topics we will be learning:
+#### We'll teach you how to program with R, how to create amazing data visualizations, and how to use Machine Learning with R! Here a just a few of the topics we will be learning:
 - Programming with R
 - Advanced R Features
 - Using R Data Frames to solve complex tasks
@@ -16,6 +16,9 @@
 - Decision Trees
 - Random Forests
 - and much more!
+
+#### Are there any course requirements or prerequisites?
+- Basic Math Skills
 
 ----------------------------------------------
 
